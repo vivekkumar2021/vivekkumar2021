@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [vivekkumar2021] 👋 
+# Hi there, I'm Vivek - aka [vivekkumar2021] 👋 
 
 ## I'm a Data Scientist, MLOps Engineer and Teacher!!
 
