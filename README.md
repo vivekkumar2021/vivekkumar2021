@@ -51,6 +51,8 @@
 
 </details>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar2021&theme=tokyonight)
+
 [website]: http://predictionoid.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/vivek-kumar-76457193/
 
