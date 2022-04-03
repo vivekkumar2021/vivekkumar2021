@@ -20,27 +20,27 @@
 ### Languages and Tools:
 
 <p align="left">
-[<img alt="Python" width="26px" src="./img/python.png" />]
-[<img alt="Azure" width="26px" src="./img/azure.svg" />]
-[<img alt="Azure DevOps" width="26px" src="./img/azuredevops.png" />]
-[<img alt="Jupyter" width="26px" src="./img/jupyter.png" />]
-[<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img alt="Pandas" width="26px" src="./img/pandas.svg" />]
-[<img alt="Matplotlib" width="26px" src="./img/matplotlib.svg" />]
-[<img alt="Seaborn" width="26px" src="./img/seaborn.svg" />]
-[<img alt="SKLearn" width="26px" src="./img/sklearn.svg" />]
-[<img alt="Numpy" width="26px" src="./img/numpy.svg" />]
-[<img alt="PowerBI" width="26px" src="./img/powerbi.png" />]
-[<img alt="Django" width="26px" src="./img/django.png" />]
-[<img alt="Tensorflow" width="26px" src="./img/tensorflow.svg" />]
-[<img alt="Keras" width="26px" src="./img/keras.png" />]
-[<img alt="Excel" width="26px" src="./img/excel.svg" />]
-[<img alt="SQL" width="26px" src="./img/sql.png" />]
-[<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
+<img alt="Python" width="26px" src="./img/python.png" />
+<img alt="Azure" width="26px" src="./img/azure.svg" />
+<img alt="Azure DevOps" width="26px" src="./img/azuredevops.png" />
+<img alt="Jupyter" width="26px" src="./img/jupyter.png" />
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img alt="Pandas" width="26px" src="./img/pandas.svg" />
+<img alt="Matplotlib" width="26px" src="./img/matplotlib.svg" />
+<img alt="Seaborn" width="26px" src="./img/seaborn.svg" />
+<img alt="SKLearn" width="26px" src="./img/sklearn.svg" />
+<img alt="Numpy" width="26px" src="./img/numpy.svg" />
+<img alt="PowerBI" width="26px" src="./img/powerbi.png" />
+<img alt="Django" width="26px" src="./img/django.png" />
+<img alt="Tensorflow" width="26px" src="./img/tensorflow.svg" />
+<img alt="Keras" width="26px" src="./img/keras.png" />
+<img alt="Excel" width="26px" src="./img/excel.svg" />
+<img alt="SQL" width="26px" src="./img/sql.png" />
+<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 </p>
 
 <br />
