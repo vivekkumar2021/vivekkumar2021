@@ -21,10 +21,10 @@
 ### Languages and Tools:
 
 <p align="left">
-<img alt="Python" width="30px" src="./img/python.png" />
-<img alt="Azure" width="30px" src="./img/azure.svg" />
-<img alt="Azure DevOps" width="30px" src="./img/azuredevops.png" />
-<img alt="Jupyter" width="30px" src="./img/jupyter.png" />
+<img alt="Python" width="30px" src="./img/python.png" hspace="20"/>
+<img alt="Azure" width="30px" src="./img/azure.svg" hspace="20"/>
+<img alt="Azure DevOps" width="30px" src="./img/azuredevops.png" hspace="20"/>
+<img alt="Jupyter" width="30px" src="./img/jupyter.png" hspace="20"/>
 <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="Pandas" width="30px" src="./img/pandas.svg" />
 <img alt="Matplotlib" width="30px" src="./img/matplotlib.svg" />
@@ -38,9 +38,7 @@
 <img alt="Excel" width="30px" src="./img/excel.svg" />
 <img alt="SQL" width="30px" src="./img/sql.png" />
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img alt="Terminal" width="30px" src="./img/terminal-light.svg" />
 <img alt="Terminal" width="30px" src="./img/terminal-dark.svg" />
 </p>
 
