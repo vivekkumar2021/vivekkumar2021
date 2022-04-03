@@ -34,7 +34,7 @@
 <img alt="PowerBI" width="40px" src="./img/powerbi.png" hspace="8"/>
 <img alt="Django" width="40px" src="./img/django.png" hspace="8"/>
 <img alt="Tensorflow" width="30px" src="./img/tensorflow.svg" hspace="8"/>
-<img alt="Keras" width="60px" src="./img/keras.png" hspace="8"/>
+<img alt="Keras" width="30px" src="./img/keras.png" hspace="8"/>
 <img alt="Excel" width="30px" src="./img/excel.svg" hspace="8"/>
 <img alt="SQL" width="20px" src="./img/sql.png" hspace="8"/>
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" hspace="8"/>
